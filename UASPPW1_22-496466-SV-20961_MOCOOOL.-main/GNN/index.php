@@ -575,7 +575,7 @@
           </a>
 
           <p class="footer-text">
-            Sekarang belajar tennis cukup mudah. Gabung sekarang juga!
+            Sekarang belajar tennis cukup mudah. Ayo gabung sekarang juga!!!
           </p>
 
           <ul class="social-list">
